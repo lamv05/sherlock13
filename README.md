@@ -39,13 +39,13 @@ Exemple :
 ### 2. Lancer un client
 
 ```bash
-./sh13 <ipServeur> <portServeur> <ipClient> <portClient>
+./sh13 <ipServeur> <portServeur> <ipClient> <portClient> <nomJoueur>
 ```
 
 Exemple :
 
 ```bash
-./sh13 127.0.0.1 32000 127.0.0.1 32001
+./sh13 127.0.0.1 32000 127.0.0.1 32001 Alice
 ```
 
 > 💡 Répéter cette étape pour chaque joueur.
