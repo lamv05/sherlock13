@@ -1,4 +1,4 @@
-# 🕵️ Sherlock 13 - Projet Réseau et Interface Graphique
+# 🕵️ Sherlock 13 - Projet OS User
 
 ## 🎯 Présentation du jeu
 
