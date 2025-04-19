@@ -60,8 +60,8 @@ Une fois la fenêtre graphique du client ouverte, cliquer sur le bouton **“Con
 
 Quand c’est le tour d’un joueur, un bouton **"Go"** s’affiche, permettant de valider une action. Trois choix sont possibles :
 
-- 🖱️ **Demander à tous les joueurs** s’ils ont un symbole → cliquer sur le symbole voulu.
-- 📌 **Demander à un joueur spécifique** → sélectionner le joueur + le symbole concerné.
+- 🖱️ **Demander à tous les joueurs** s’ils ont un symbole → cliquer sur le symbole voulu -> oui = 42, non = 0
+- 📌 **Demander à un joueur spécifique** combien de symbole il a → sélectionner le joueur + le symbole concerné.
 - 🚨 **Accuser un suspect** → cliquer sur le nom du personnage en bas à gauche de l’interface.
 
 ---
