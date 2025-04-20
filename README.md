@@ -120,7 +120,7 @@ Voici les fichiers principaux présents dans le dépôt :
 - `sh13.c` : Code source du client
 - `Makefile` : Fichier de compilation
 - `README.md` : Documentation du projet
-- `img/` : Dossier contenant les images utilisés
+- `img/` : Dossier contenant les images utilisées
 - `rapport.pdf` : rapport du projet
 
 
